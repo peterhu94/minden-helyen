@@ -1,0 +1,2 @@
+# minden-helyen
+Gyakorló feladat
